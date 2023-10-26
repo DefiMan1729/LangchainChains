@@ -24,7 +24,7 @@ from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplat
 from langchain.chains import LLMChain, SimpleSequentialChain, SequentialChain
 
 # Initialize the OpenAI model
-# Note: I have already set OpenAI keys as environment variable. You need to do the same.
+# Note: I have already set my OpenAI keys as an environment variable. You need to do the same.
 llm = ChatOpenAI()
 
 # Create prompts for each task
