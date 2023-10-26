@@ -1,7 +1,7 @@
 # Employee Performance Review Automation
 The code uses LangChain to create a chain of language models that perform different tasks such as summarizing the employee’s performance, identifying their weaknesses, and providing a recommendation plan. The code takes a manager's feedback about an employee through the command line and outputs the results of each task as a dictionary. The code can be useful for managers who want to automate the process of writing performance reviews for their employees
 
-# LangChain
+## LangChain
 LangChain is a Python library that allows you to create and execute natural language processing (NLP) tasks using a chain of language models. You can use LangChain to perform tasks such as summarization, sentiment analysis, text generation, and more.
 
 ## Installation
